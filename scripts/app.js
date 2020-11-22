@@ -50,7 +50,7 @@
     }
   };
 
-  var weatherAPIUrlBase = 'http://api.openweathermap.org/data/2.5/forecast?appid="Insert the Key"&units=metric&q=';
+  var weatherAPIUrlBase = 'http://api.openweathermap.org/data/2.5/forecast?appid="53b48cc079d257ea13db084c59f54cf0"&units=metric&q=';
 
   var app = {
     isLoading: true,
